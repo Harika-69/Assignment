@@ -7,6 +7,9 @@ class animal
      public static void main(String[]args)
      {  
      animal a=new animal();
-            eat();
+            a.eat();
+     }
+
+     private void eat() {
      }
 }
